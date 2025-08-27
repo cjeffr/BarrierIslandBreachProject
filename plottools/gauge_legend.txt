@@ -1,0 +1,10 @@
+# G is vertical gap, V is vertical line, N sets # of columns,
+# D draws horizontal line, H is header, L is column header,
+# S is symbol,
+# format of: symbol position, symbol type,
+# format of: symbol size, symbol color, symbol border thickness, text position, text
+N 1
+S 0.2c - 0.45c - thin,- 0.65c No Breach
+S 0.2c - 0.2c - thin,blue 0.35c Random Depth
+S 0.2c - 0.2c - thin,orange 0.35c Random Width
+S 0.2c - 0.2c - thin,red 0.35c Random Location
