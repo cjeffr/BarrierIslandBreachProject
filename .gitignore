@@ -20,3 +20,4 @@ bathymetry/
 *.pkl
 *.nc
 *.asc
+*.data
