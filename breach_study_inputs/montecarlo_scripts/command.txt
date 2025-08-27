@@ -1,0 +1,2 @@
+#! /bin/bash
+cd $1;make new > output_new.log;export OMP_NUM_THREADS=32;OMP_STACKSIZE=16M;make .plots > out_plots.log; cd ../; python compress_output.py "$1" 
