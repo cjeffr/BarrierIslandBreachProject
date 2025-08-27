@@ -3,6 +3,7 @@ big_blobs_over_20mb.txt
 data/
 _output/
 _plots/
+bathymetry/
 *.tif
 *.tiff
 *.zip
