@@ -1,0 +1,15 @@
+# Legend file for usage in GMT or PyGMT
+N 6  # Set 6 columns
+G 0.1c  # Reduce vertical gap between rows
+H 10p,Helvetica-Bold,black Legend for Histograms
+D 0/0+o0.3c/0.3c+w2.5c  # Use a single column width and adjust padding
+
+L 8p,Helvetica-Bold  # Font for legend items
+
+# Symbol entries
+S 0.5c r 0.5c #D55E0080 2p,#A64400,solid 0.8c "Width and Depth"
+S 0.5c r 0.5c #009E7380 2p,#007A57,solid 0.8c "Width"
+S 0.5c r 0.5c #56B4E980 2p,#3B88B4,solid 0.8c "Depth"
+S 0.5c r 0.5c #CC79A780 2p,#A1557C,solid 0.8c "Locations"
+S 0.5c r 0.5c #E69F0080 2p,#B47B00,solid 0.8c "East"
+S 0.5c r 0.5c #80808080 2p,#666666,solid 0.8c "West"

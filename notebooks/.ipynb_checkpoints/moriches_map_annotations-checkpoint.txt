@@ -1,0 +1,7 @@
+lon lat angle font pen fill location
+-72.9 40.5 0 8p,Times-Roman,black 0.5p,#56B4E9 white Storm Track
+-72.0 40.7 0 8p,Times-Roman,black 0.5p,#D55E00 white Moriches Bay, NY
+-73.31 40.78 18 8p,Times-Roman,black 0.5p,black white Long Island, NY
+-74.5 40.7178 0 8p,Times-Roman,black 0.5p,black white New Jersey
+-74.0 -41.65 0 8p,Times-Roman,black 0.5p,black white New York
+-73.0877 41.6032 0 8p,Times-Roman,black 0.5p,black white Connecticut

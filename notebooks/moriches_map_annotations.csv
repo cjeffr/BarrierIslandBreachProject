@@ -1,0 +1,7 @@
+Name,lon,lat,font,pen,angle,fill
+Storm Track,-72.9,40.5,"8p,Times-Roman,black","0.5p,#56B4E9",0,white
+"Moriches Bay, NY",-72.0,40.7,"8p,Times-Roman,black","0.5p,#D55E00",0,white
+"Long Island, NY",-73.31,40.78,"8p,Times-Roman,black","0.5p,black",18,white
+New Jersey,-74.5,40.7178,"8p,Times-Roman,black","0.5p,black",0,white
+New York,-74.0,41.65,"8p,Times-Roman,black","0.5p,black",0,white
+Connecticut,-73.0877,41.6032,"8p,Times-Roman,black","0.5p,black",0,white

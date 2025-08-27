@@ -1,0 +1,8 @@
+# Legend file for usage in GMT or PyGMT
+N 3
+S 0.25c r 0.5c #D55E00+o0.7 2p,#A64400,solid 0.6c Width and Depth
+S 0.25c r 0.5c #009E73+o0.7 2p,#007A57,solid 0.6c Width
+S 0.25c r 0.5c #56B4E9+o0.7 2p,#3B88B4,solid 0.6c Depth
+S 0.25c r 0.5c #CC79A7+o0.7 2p,#A1557C,solid 0.6c Locations
+S 0.25c r 0.5c #E69F00+o0.7 2p,#B47B00,solid 0.6c East
+S 0.25c r 0.5c #666666+o0.7 2p,#666666,solid 0.6c West

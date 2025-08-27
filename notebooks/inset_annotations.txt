@@ -1,0 +1,6 @@
+-72.9 40.5 0 -W0.5p,#56B4E9 8p,Times-Roman,black Storm Track
+-72.0 40.7 0 -W0.5p,#D55E00 8p,Times-Roman,black Moriches Bay, NY
+-73.31 40.78 18 -W0.5p,black 8p,Times-Roman,black Long Island, NY
+-74.5 40.7178 0 -W0.5p,black 8p,Times-Roman,black New Jersey
+-74.0 -41.65 0 -W0.5p,black 8p,Times-Roman,black New York
+-73.0877 41.6032 0 -W0.5p,black 8p,Times-Roman,black Connecticut
